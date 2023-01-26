@@ -1,0 +1,606 @@
+country,age,suicides_no
+Albania,15-24 years,546
+Albania,25-34 years,427
+Albania,35-54 years,591
+Albania,5-14 years,61
+Albania,55-74 years,264
+Albania,75+ years,81
+Antigua and Barbuda,15-24 years,0
+Antigua and Barbuda,25-34 years,1
+Antigua and Barbuda,35-54 years,6
+Antigua and Barbuda,5-14 years,0
+Antigua and Barbuda,55-74 years,4
+Antigua and Barbuda,75+ years,0
+Argentina,15-24 years,17655
+Argentina,25-34 years,13490
+Argentina,35-54 years,21781
+Argentina,5-14 years,1452
+Argentina,55-74 years,19862
+Argentina,75+ years,7979
+Armenia,15-24 years,175
+Armenia,25-34 years,290
+Armenia,35-54 years,649
+Armenia,5-14 years,24
+Armenia,55-74 years,574
+Armenia,75+ years,193
+Aruba,15-24 years,7
+Aruba,25-34 years,24
+Aruba,35-54 years,42
+Aruba,5-14 years,0
+Aruba,55-74 years,22
+Aruba,75+ years,6
+Australia,15-24 years,11086
+Australia,25-34 years,15034
+Australia,35-54 years,26150
+Australia,5-14 years,320
+Australia,55-74 years,12911
+Australia,75+ years,4610
+Austria,15-24 years,4367
+Austria,25-34 years,6273
+Austria,35-54 years,16298
+Austria,5-14 years,143
+Austria,55-74 years,14278
+Austria,75+ years,8714
+Azerbaijan,15-24 years,299
+Azerbaijan,25-34 years,334
+Azerbaijan,35-54 years,576
+Azerbaijan,5-14 years,60
+Azerbaijan,55-74 years,324
+Azerbaijan,75+ years,63
+Bahamas,15-24 years,17
+Bahamas,25-34 years,21
+Bahamas,35-54 years,44
+Bahamas,5-14 years,2
+Bahamas,55-74 years,8
+Bahamas,75+ years,1
+Bahrain,15-24 years,54
+Bahrain,25-34 years,217
+Bahrain,35-54 years,173
+Bahrain,5-14 years,4
+Bahrain,55-74 years,15
+Bahrain,75+ years,0
+Barbados,15-24 years,23
+Barbados,25-34 years,43
+Barbados,35-54 years,70
+Barbados,5-14 years,2
+Barbados,55-74 years,32
+Barbados,75+ years,7
+Belarus,15-24 years,5490
+Belarus,25-34 years,10314
+Belarus,35-54 years,25080
+Belarus,5-14 years,331
+Belarus,55-74 years,15338
+Belarus,75+ years,3339
+Belgium,15-24 years,4475
+Belgium,25-34 years,8731
+Belgium,35-54 years,24300
+Belgium,5-14 years,216
+Belgium,55-74 years,16887
+Belgium,75+ years,8152
+Belize,15-24 years,98
+Belize,25-34 years,92
+Belize,35-54 years,104
+Belize,5-14 years,12
+Belize,55-74 years,33
+Belize,75+ years,9
+Bosnia and Herzegovina,15-24 years,8
+Bosnia and Herzegovina,25-34 years,23
+Bosnia and Herzegovina,35-54 years,126
+Bosnia and Herzegovina,5-14 years,1
+Bosnia and Herzegovina,55-74 years,109
+Bosnia and Herzegovina,75+ years,51
+Brazil,15-24 years,44597
+Brazil,25-34 years,52534
+Brazil,35-54 years,79860
+Brazil,5-14 years,3029
+Brazil,55-74 years,37556
+Brazil,75+ years,9037
+Bulgaria,15-24 years,2543
+Bulgaria,25-34 years,3322
+Bulgaria,35-54 years,10049
+Bulgaria,5-14 years,301
+Bulgaria,55-74 years,12734
+Bulgaria,75+ years,7439
+Cabo Verde,15-24 years,6
+Cabo Verde,25-34 years,8
+Cabo Verde,35-54 years,20
+Cabo Verde,5-14 years,3
+Cabo Verde,55-74 years,3
+Cabo Verde,75+ years,2
+Canada,15-24 years,15909
+Canada,25-34 years,19997
+Canada,35-54 years,44014
+Canada,5-14 years,979
+Canada,55-74 years,20848
+Canada,75+ years,5814
+Chile,15-24 years,7845
+Chile,25-34 years,8775
+Chile,35-54 years,14477
+Chile,5-14 years,532
+Chile,55-74 years,7274
+Chile,75+ years,1992
+Colombia,15-24 years,17956
+Colombia,25-34 years,12455
+Colombia,35-54 years,12990
+Colombia,5-14 years,1866
+Colombia,55-74 years,6232
+Colombia,75+ years,1581
+Costa Rica,15-24 years,1577
+Costa Rica,25-34 years,1668
+Costa Rica,35-54 years,2352
+Costa Rica,5-14 years,123
+Costa Rica,55-74 years,889
+Costa Rica,75+ years,183
+Croatia,15-24 years,1290
+Croatia,25-34 years,1693
+Croatia,35-54 years,5744
+Croatia,5-14 years,74
+Croatia,55-74 years,6703
+Croatia,75+ years,2925
+Cuba,15-24 years,3522
+Cuba,25-34 years,5827
+Cuba,35-54 years,13570
+Cuba,5-14 years,185
+Cuba,55-74 years,11741
+Cuba,75+ years,6573
+Cyprus,15-24 years,55
+Cyprus,25-34 years,86
+Cyprus,35-54 years,155
+Cyprus,5-14 years,0
+Cyprus,55-74 years,96
+Cyprus,75+ years,20
+Czech Republic,15-24 years,3596
+Czech Republic,25-34 years,5498
+Czech Republic,35-54 years,16885
+Czech Republic,5-14 years,174
+Czech Republic,55-74 years,12042
+Czech Republic,75+ years,5492
+Denmark,15-24 years,874
+Denmark,25-34 years,1604
+Denmark,35-54 years,5738
+Denmark,5-14 years,39
+Denmark,55-74 years,4683
+Denmark,75+ years,2359
+Dominica,15-24 years,0
+Dominica,25-34 years,0
+Dominica,35-54 years,0
+Dominica,5-14 years,0
+Dominica,55-74 years,0
+Dominica,75+ years,0
+Ecuador,15-24 years,7662
+Ecuador,25-34 years,4853
+Ecuador,35-54 years,4554
+Ecuador,5-14 years,1078
+Ecuador,55-74 years,1994
+Ecuador,75+ years,519
+El Salvador,15-24 years,4327
+El Salvador,25-34 years,2939
+El Salvador,35-54 years,2700
+El Salvador,5-14 years,309
+El Salvador,55-74 years,1105
+El Salvador,75+ years,303
+Estonia,15-24 years,673
+Estonia,25-34 years,915
+Estonia,35-54 years,2715
+Estonia,5-14 years,48
+Estonia,55-74 years,1973
+Estonia,75+ years,710
+Fiji,15-24 years,85
+Fiji,25-34 years,74
+Fiji,35-54 years,85
+Fiji,5-14 years,9
+Fiji,55-74 years,39
+Fiji,75+ years,12
+Finland,15-24 years,3822
+Finland,25-34 years,5634
+Finland,35-54 years,13908
+Finland,5-14 years,96
+Finland,55-74 years,8093
+Finland,75+ years,2124
+France,15-24 years,19849
+France,25-34 years,42510
+France,35-54 years,123510
+France,5-14 years,877
+France,55-74 years,86509
+France,75+ years,55872
+Georgia,15-24 years,350
+Georgia,25-34 years,474
+Georgia,35-54 years,974
+Georgia,5-14 years,28
+Georgia,55-74 years,1017
+Georgia,75+ years,381
+Germany,15-24 years,17902
+Germany,25-34 years,32947
+Germany,35-54 years,97833
+Germany,5-14 years,832
+Germany,55-74 years,89191
+Germany,75+ years,52557
+Greece,15-24 years,1020
+Greece,25-34 years,1910
+Greece,35-54 years,3994
+Greece,5-14 years,41
+Greece,55-74 years,3643
+Greece,75+ years,1760
+Grenada,15-24 years,4
+Grenada,25-34 years,9
+Grenada,35-54 years,13
+Grenada,5-14 years,1
+Grenada,55-74 years,9
+Grenada,75+ years,2
+Guatemala,15-24 years,3035
+Guatemala,25-34 years,1967
+Guatemala,35-54 years,1944
+Guatemala,5-14 years,313
+Guatemala,55-74 years,705
+Guatemala,75+ years,185
+Guyana,15-24 years,869
+Guyana,25-34 years,852
+Guyana,35-54 years,1201
+Guyana,5-14 years,88
+Guyana,55-74 years,360
+Guyana,75+ years,56
+Hungary,15-24 years,3571
+Hungary,25-34 years,7000
+Hungary,35-54 years,29810
+Hungary,5-14 years,146
+Hungary,55-74 years,22689
+Hungary,75+ years,10675
+Iceland,15-24 years,197
+Iceland,25-34 years,223
+Iceland,35-54 years,370
+Iceland,5-14 years,6
+Iceland,55-74 years,257
+Iceland,75+ years,55
+Ireland,15-24 years,2472
+Ireland,25-34 years,2788
+Ireland,35-54 years,4498
+Ireland,5-14 years,86
+Ireland,55-74 years,2372
+Ireland,75+ years,358
+Israel,15-24 years,1823
+Israel,25-34 years,1885
+Israel,35-54 years,3370
+Israel,5-14 years,94
+Israel,55-74 years,2627
+Israel,75+ years,1495
+Italy,15-24 years,8571
+Italy,25-34 years,16115
+Italy,35-54 years,39250
+Italy,5-14 years,400
+Italy,55-74 years,43314
+Italy,75+ years,24410
+Jamaica,15-24 years,34
+Jamaica,25-34 years,38
+Jamaica,35-54 years,55
+Jamaica,5-14 years,11
+Jamaica,55-74 years,34
+Jamaica,75+ years,12
+Japan,15-24 years,52288
+Japan,25-34 years,94529
+Japan,35-54 years,278679
+Japan,5-14 years,2130
+Japan,55-74 years,272705
+Japan,75+ years,106571
+Kazakhstan,15-24 years,18774
+Kazakhstan,25-34 years,23861
+Kazakhstan,35-54 years,37598
+Kazakhstan,5-14 years,1911
+Kazakhstan,55-74 years,16122
+Kazakhstan,75+ years,3280
+Kiribati,15-24 years,23
+Kiribati,25-34 years,9
+Kiribati,35-54 years,11
+Kiribati,5-14 years,6
+Kiribati,55-74 years,4
+Kiribati,75+ years,0
+Kuwait,15-24 years,130
+Kuwait,25-34 years,435
+Kuwait,35-54 years,363
+Kuwait,5-14 years,7
+Kuwait,55-74 years,31
+Kuwait,75+ years,0
+Kyrgyzstan,15-24 years,2779
+Kyrgyzstan,25-34 years,2970
+Kyrgyzstan,35-54 years,4534
+Kyrgyzstan,5-14 years,469
+Kyrgyzstan,55-74 years,1930
+Kyrgyzstan,75+ years,408
+Latvia,15-24 years,1047
+Latvia,25-34 years,1804
+Latvia,35-54 years,5033
+Latvia,5-14 years,52
+Latvia,55-74 years,3691
+Latvia,75+ years,1143
+Lithuania,15-24 years,2684
+Lithuania,25-34 years,3998
+Lithuania,35-54 years,11952
+Lithuania,5-14 years,108
+Lithuania,55-74 years,7277
+Lithuania,75+ years,2020
+Luxembourg,15-24 years,150
+Luxembourg,25-34 years,270
+Luxembourg,35-54 years,752
+Luxembourg,5-14 years,10
+Luxembourg,55-74 years,546
+Luxembourg,75+ years,230
+Macau,15-24 years,2
+Macau,25-34 years,5
+Macau,35-54 years,10
+Macau,5-14 years,0
+Macau,55-74 years,5
+Macau,75+ years,5
+Maldives,15-24 years,6
+Maldives,25-34 years,5
+Maldives,35-54 years,6
+Maldives,5-14 years,2
+Maldives,55-74 years,0
+Maldives,75+ years,1
+Malta,15-24 years,68
+Malta,25-34 years,110
+Malta,35-54 years,237
+Malta,5-14 years,2
+Malta,55-74 years,127
+Malta,75+ years,41
+Mauritius,15-24 years,865
+Mauritius,25-34 years,1079
+Mauritius,35-54 years,1380
+Mauritius,5-14 years,60
+Mauritius,55-74 years,434
+Mauritius,75+ years,76
+Mexico,15-24 years,33664
+Mexico,25-34 years,27226
+Mexico,35-54 years,29997
+Mexico,5-14 years,3930
+Mexico,55-74 years,12318
+Mexico,75+ years,4004
+Mongolia,15-24 years,103
+Mongolia,25-34 years,142
+Mongolia,35-54 years,142
+Mongolia,55-74 years,30
+Mongolia,75+ years,6
+Montenegro,15-24 years,21
+Montenegro,25-34 years,51
+Montenegro,35-54 years,156
+Montenegro,5-14 years,5
+Montenegro,55-74 years,166
+Montenegro,75+ years,73
+Netherlands,15-24 years,4071
+Netherlands,25-34 years,7801
+Netherlands,35-54 years,20382
+Netherlands,5-14 years,189
+Netherlands,55-74 years,13444
+Netherlands,75+ years,4946
+New Zealand,15-24 years,3458
+New Zealand,25-34 years,3024
+New Zealand,35-54 years,4634
+New Zealand,5-14 years,157
+New Zealand,55-74 years,2327
+New Zealand,75+ years,783
+Nicaragua,15-24 years,701
+Nicaragua,25-34 years,549
+Nicaragua,35-54 years,462
+Nicaragua,5-14 years,80
+Nicaragua,55-74 years,182
+Nicaragua,75+ years,39
+Norway,15-24 years,2416
+Norway,25-34 years,2984
+Norway,35-54 years,6052
+Norway,5-14 years,128
+Norway,55-74 years,4091
+Norway,75+ years,1321
+Oman,15-24 years,7
+Oman,25-34 years,13
+Oman,35-54 years,9
+Oman,5-14 years,0
+Oman,55-74 years,2
+Oman,75+ years,2
+Panama,15-24 years,889
+Panama,25-34 years,861
+Panama,35-54 years,1013
+Panama,5-14 years,69
+Panama,55-74 years,492
+Panama,75+ years,159
+Paraguay,15-24 years,1790
+Paraguay,25-34 years,941
+Paraguay,35-54 years,1110
+Paraguay,5-14 years,250
+Paraguay,55-74 years,546
+Paraguay,75+ years,146
+Philippines,15-24 years,7107
+Philippines,25-34 years,5358
+Philippines,35-54 years,5716
+Philippines,5-14 years,493
+Philippines,55-74 years,2168
+Philippines,75+ years,488
+Poland,15-24 years,15191
+Poland,25-34 years,20301
+Poland,35-54 years,60061
+Poland,5-14 years,849
+Poland,55-74 years,35758
+Poland,75+ years,6938
+Portugal,15-24 years,1505
+Portugal,25-34 years,2590
+Portugal,35-54 years,6535
+Portugal,5-14 years,85
+Portugal,55-74 years,8189
+Portugal,75+ years,5157
+Puerto Rico,15-24 years,971
+Puerto Rico,25-34 years,1599
+Puerto Rico,35-54 years,3415
+Puerto Rico,5-14 years,53
+Puerto Rico,55-74 years,2174
+Puerto Rico,75+ years,831
+Qatar,15-24 years,108
+Qatar,25-34 years,203
+Qatar,35-54 years,244
+Qatar,5-14 years,1
+Qatar,55-74 years,17
+Qatar,75+ years,1
+Republic of Korea,15-24 years,24243
+Republic of Korea,25-34 years,43167
+Republic of Korea,35-54 years,96292
+Republic of Korea,5-14 years,1428
+Republic of Korea,55-74 years,68574
+Republic of Korea,75+ years,28026
+Romania,15-24 years,5981
+Romania,25-34 years,9243
+Romania,35-54 years,29720
+Romania,5-14 years,598
+Romania,55-74 years,21878
+Romania,75+ years,5357
+Russian Federation,15-24 years,148611
+Russian Federation,25-34 years,231187
+Russian Federation,35-54 years,479140
+Russian Federation,5-14 years,8840
+Russian Federation,55-74 years,267753
+Russian Federation,75+ years,74211
+Saint Kitts and Nevis,15-24 years,0
+Saint Kitts and Nevis,25-34 years,0
+Saint Kitts and Nevis,35-54 years,0
+Saint Kitts and Nevis,5-14 years,0
+Saint Kitts and Nevis,55-74 years,0
+Saint Kitts and Nevis,75+ years,0
+Saint Lucia,15-24 years,40
+Saint Lucia,25-34 years,53
+Saint Lucia,35-54 years,78
+Saint Lucia,5-14 years,4
+Saint Lucia,55-74 years,41
+Saint Lucia,75+ years,14
+Saint Vincent and Grenadines,15-24 years,19
+Saint Vincent and Grenadines,25-34 years,33
+Saint Vincent and Grenadines,35-54 years,52
+Saint Vincent and Grenadines,5-14 years,3
+Saint Vincent and Grenadines,55-74 years,11
+Saint Vincent and Grenadines,75+ years,6
+San Marino,15-24 years,0
+San Marino,25-34 years,1
+San Marino,35-54 years,1
+San Marino,5-14 years,0
+San Marino,55-74 years,2
+San Marino,75+ years,0
+Serbia,15-24 years,1124
+Serbia,25-34 years,1963
+Serbia,35-54 years,6947
+Serbia,5-14 years,41
+Serbia,55-74 years,9230
+Serbia,75+ years,4874
+Seychelles,15-24 years,15
+Seychelles,25-34 years,19
+Seychelles,35-54 years,47
+Seychelles,5-14 years,1
+Seychelles,55-74 years,12
+Seychelles,75+ years,4
+Singapore,15-24 years,1084
+Singapore,25-34 years,1797
+Singapore,35-54 years,3549
+Singapore,5-14 years,83
+Singapore,55-74 years,2341
+Singapore,75+ years,1235
+Slovakia,15-24 years,1186
+Slovakia,25-34 years,1834
+Slovakia,35-54 years,6085
+Slovakia,5-14 years,62
+Slovakia,55-74 years,3363
+Slovakia,75+ years,907
+Slovenia,15-24 years,733
+Slovenia,25-34 years,1134
+Slovenia,35-54 years,3971
+Slovenia,5-14 years,37
+Slovenia,55-74 years,3484
+Slovenia,75+ years,1256
+South Africa,15-24 years,2034
+South Africa,25-34 years,2160
+South Africa,35-54 years,2102
+South Africa,5-14 years,163
+South Africa,55-74 years,691
+South Africa,75+ years,171
+Spain,15-24 years,7559
+Spain,25-34 years,13373
+Spain,35-54 years,30331
+Spain,5-14 years,354
+Spain,55-74 years,29807
+Spain,75+ years,18778
+Sri Lanka,15-24 years,14360
+Sri Lanka,25-34 years,12685
+Sri Lanka,35-54 years,17439
+Sri Lanka,5-14 years,712
+Sri Lanka,55-74 years,8105
+Sri Lanka,75+ years,2340
+Suriname,15-24 years,489
+Suriname,25-34 years,531
+Suriname,35-54 years,718
+Suriname,5-14 years,64
+Suriname,55-74 years,281
+Suriname,75+ years,83
+Sweden,15-24 years,3395
+Sweden,25-34 years,4983
+Sweden,35-54 years,13485
+Sweden,5-14 years,129
+Sweden,55-74 years,10720
+Sweden,75+ years,5083
+Switzerland,15-24 years,2015
+Switzerland,25-34 years,2867
+Switzerland,35-54 years,8846
+Switzerland,5-14 years,70
+Switzerland,55-74 years,7707
+Switzerland,75+ years,4712
+Thailand,15-24 years,23022
+Thailand,25-34 years,28135
+Thailand,35-54 years,38392
+Thailand,5-14 years,1044
+Thailand,55-74 years,16646
+Thailand,75+ years,3404
+Trinidad and Tobago,15-24 years,882
+Trinidad and Tobago,25-34 years,1051
+Trinidad and Tobago,35-54 years,1358
+Trinidad and Tobago,5-14 years,63
+Trinidad and Tobago,55-74 years,560
+Trinidad and Tobago,75+ years,125
+Turkey,15-24 years,2182
+Turkey,25-34 years,2080
+Turkey,35-54 years,3304
+Turkey,5-14 years,290
+Turkey,55-74 years,1713
+Turkey,75+ years,562
+Turkmenistan,15-24 years,2758
+Turkmenistan,25-34 years,2225
+Turkmenistan,35-54 years,2487
+Turkmenistan,5-14 years,240
+Turkmenistan,55-74 years,765
+Turkmenistan,75+ years,149
+Ukraine,15-24 years,27509
+Ukraine,25-34 years,49633
+Ukraine,35-54 years,124721
+Ukraine,5-14 years,1949
+Ukraine,55-74 years,90385
+Ukraine,75+ years,25753
+United Arab Emirates,15-24 years,104
+United Arab Emirates,25-34 years,257
+United Arab Emirates,35-54 years,235
+United Arab Emirates,5-14 years,2
+United Arab Emirates,55-74 years,23
+United Arab Emirates,75+ years,1
+United Kingdom,15-24 years,14925
+United Kingdom,25-34 years,26287
+United Kingdom,35-54 years,54085
+United Kingdom,5-14 years,242
+United Kingdom,55-74 years,30082
+United Kingdom,75+ years,11184
+United States,15-24 years,141679
+United States,25-34 years,182047
+United States,35-54 years,380917
+United States,5-14 years,8923
+United States,55-74 years,224770
+United States,75+ years,95677
+Uruguay,15-24 years,1766
+Uruguay,25-34 years,1957
+Uruguay,35-54 years,3764
+Uruguay,5-14 years,104
+Uruguay,55-74 years,3735
+Uruguay,75+ years,1812
+Uzbekistan,15-24 years,9673
+Uzbekistan,25-34 years,8578
+Uzbekistan,35-54 years,10964
+Uzbekistan,5-14 years,1376
+Uzbekistan,55-74 years,3595
+Uzbekistan,75+ years,617
